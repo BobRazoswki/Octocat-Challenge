@@ -1,1 +1,2 @@
 Explain what a branch is, in your own words
+a branch can be created for every features of a big project
